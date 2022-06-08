@@ -471,3 +471,11 @@ ul{
             color: #24262b;
             background-color: #ffffff;
     }
+    
+.mobile h4{
+        padding: 2px 2px;
+}
+.email h4{
+        padding: 2px 2px;
+}
+
