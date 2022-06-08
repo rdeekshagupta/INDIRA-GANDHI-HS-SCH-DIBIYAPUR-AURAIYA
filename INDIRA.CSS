@@ -472,10 +472,10 @@ ul{
             background-color: #ffffff;
     }
     
-.mobile span{
+.mobile a h4{
         padding: 4px 4px;
 }
-.email span{
+.email a h4{
         padding: 4px 4px;
 }
 
