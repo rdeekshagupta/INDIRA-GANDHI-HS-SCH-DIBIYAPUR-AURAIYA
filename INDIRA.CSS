@@ -329,7 +329,7 @@ ul{
 }
         
 .footer-col h3{
-            font-size: 1.2rem;
+            font-size: 1.0rem;
             color: #f0f357;
             text-transform: capitalize;
             margin-bottom: 0rem;
@@ -359,12 +359,12 @@ ul{
 .footer-col ul li{
             position: relative;
             display: inline-block;
-            padding: 1rem 1rem;
+            padding: 0rem 1rem;
             color: #533707;
             text-transform: uppercase;
             letter-spacing: 0.0rem;
             text-decoration: none;
-            font-size: 1.0rem;
+            font-size: 0.8rem;
             overflow: hidden;
             transition: 0.2s;
 }
@@ -375,7 +375,7 @@ ul{
             margin-bottom: 0rem;
             font-weight: 500;
             position: relative;
-            padding: 2px 2px;
+            padding: 0px 1px;
 }
     .footer-col ul li:hover{
     
@@ -474,9 +474,9 @@ ul{
     }
     
 .mobile a h4{
-        padding: 2px 2px;
+        padding: 0px 2px;
 }
 .email a h4{
-        padding: 2px 2px;
+        padding: 0px 2px;
 }
 
