@@ -323,7 +323,7 @@ ul{
 }
 .footer-col{
             width:20%;
-            padding: 0 3rem;
+            padding: 0 1rem;
             text-align: center;
             height: 3.5rem;
 }
@@ -359,7 +359,7 @@ ul{
 .footer-col ul li{
             position: relative;
             display: inline-block;
-            padding: 2rem 2rem;
+            padding: 1rem 1rem;
             color: #533707;
             text-transform: uppercase;
             letter-spacing: 0.0rem;
@@ -474,9 +474,9 @@ ul{
     }
     
 .mobile a h4{
-        padding: 4px 4px;
+        padding: 2px 2px;
 }
 .email a h4{
-        padding: 4px 4px;
+        padding: 2px 2px;
 }
 
