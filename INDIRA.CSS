@@ -322,8 +322,8 @@ ul{
             /* line-height: 30vh; */
 }
 .footer-col{
-            width:17%;
-            padding: 0 1rem;
+            width:20%;
+            padding: 0 3rem;
             text-align: center;
             height: 3.5rem;
 }
@@ -359,7 +359,7 @@ ul{
 .footer-col ul li{
             position: relative;
             display: inline-block;
-            padding: 0rem 0rem;
+            padding: 2rem 2rem;
             color: #533707;
             text-transform: uppercase;
             letter-spacing: 0.0rem;
@@ -369,12 +369,13 @@ ul{
             transition: 0.2s;
 }
 .footer-col ul li a h4{
-            font-size: 1 rem;
+            font-size: 0.8 rem;
             color: #d37f98;
             text-transform: capitalize;
             margin-bottom: 0rem;
             font-weight: 500;
             position: relative;
+            padding: 2px 2px;
 }
     .footer-col ul li:hover{
     
